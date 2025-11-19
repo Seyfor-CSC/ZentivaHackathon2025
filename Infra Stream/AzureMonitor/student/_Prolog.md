@@ -30,8 +30,8 @@ These challenges are suitable for:
 
 ## How to Understand the Environment
 
-- One resource group (RG) is used for infrastructure that we want to monitor.
-- One RG is used for the shared resources that you will create during challenges (e.g., Alerts, Dashboards, Workbooks, etc.).
-- One RG is used for the AKS. To this resource group, never add any resources.
+- RG t1-infra-mon-hack-rg - This resource group is used for infrastructure that we want to monitor.
+- RG t1-shd-hack-rg - This resource group is used for the shared resources that you will create during challenges (e.g., Alerts, Dashboards, Workbooks, etc.).
+- RG t1-hackathon-node-rg01 - This resource group is used for the AKS. To this resource group, never add any resources.
 
 Let’s get started and unlock the full power of Azure Monitor!
