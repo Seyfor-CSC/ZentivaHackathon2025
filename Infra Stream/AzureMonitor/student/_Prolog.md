@@ -1,10 +1,8 @@
 <!-- Prolog for Azure Monitor Challenges -->
 
-# 🚀 Prologue - Welcome!
-
 **[Home](./Readme.md)** - [Next Challenge >](./Challenge-00.md)
 
-# Introduction
+# 🚀 Welcome to the Azure Monitor Hackathon Challenges!
 
 Azure Monitor is a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. Whether you’re new to Azure or looking to deepen your monitoring skills, these challenges are designed to guide you step-by-step through real-world scenarios using Azure’s monitoring, logging, and visualization tools.
 
